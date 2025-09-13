@@ -57,5 +57,4 @@ All plots are customized with titles, axis labels, and legends.
 ---
 
 
-   ```bash
-   pip install pandas matplotlib seaborn scikit-learn
+  
